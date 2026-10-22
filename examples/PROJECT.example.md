@@ -35,7 +35,7 @@ there is no data to preserve between versions.
 ## Conventions
 
 - Routers stay thin; queries live in `api/services/`.
-- Commit descriptions in Spanish.
+- Commit descriptions in native user language.
 
 ## Data policy
 
